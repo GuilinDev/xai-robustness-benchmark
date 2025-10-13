@@ -1,0 +1,15 @@
+# Tiny-ImageNet-200 Selected Images
+# Total: 1,000 images (5 per class × 200 classes)
+# Sampling: Stratified uniform sampling with seed=42
+# Split: Validation set
+# Format: image_path class_id class_name
+#
+# This file contains the fixed sample list used for all XAI robustness experiments.
+# Ensures reproducibility and fair comparison across methods.
+#
+# Usage:
+#   Each line: <relative_path> <class_id> <class_name>
+#   Example: val/n01443537/val_0.JPEG n01443537 goldfish
+#
+# Note: Actual image paths will be generated during dataset loading.
+# This is a placeholder that documents the sampling strategy.

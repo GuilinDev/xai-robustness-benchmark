@@ -1,0 +1,501 @@
+filename	n_objects	n_categories	categories
+mscoco_00000_000000000285.jpg	1	1	bear
+mscoco_00001_000000000776.jpg	4	2	teddy bear,bed
+mscoco_00002_000000001296.jpg	4	3	person,clock,cell phone
+mscoco_00003_000000002149.jpg	2	2	bowl,apple
+mscoco_00004_000000002431.jpg	9	6	person,dining table,wine glass,cup,knife,spoon
+mscoco_00005_000000002592.jpg	3	3	knife,dining table,cup
+mscoco_00006_000000003156.jpg	3	3	sink,person,toilet
+mscoco_00007_000000003661.jpg	3	3	banana,cup,keyboard
+mscoco_00008_000000004395.jpg	2	2	tie,person
+mscoco_00009_000000004795.jpg	3	3	laptop,cat,tv
+mscoco_00010_000000006763.jpg	7	5	tie,person,dining table,tv,cell phone
+mscoco_00011_000000006894.jpg	2	2	person,elephant
+mscoco_00012_000000009448.jpg	2	2	person,umbrella
+mscoco_00013_000000009914.jpg	7	5	dining table,knife,bowl,sandwich,hot dog
+mscoco_00014_000000010363.jpg	4	4	cat,bicycle,car,bottle
+mscoco_00015_000000010583.jpg	4	3	knife,dining table,sandwich
+mscoco_00016_000000013004.jpg	2	2	dining table,banana
+mscoco_00017_000000014226.jpg	8	5	person,dining table,laptop,apple,chair
+mscoco_00018_000000014831.jpg	2	2	bed,cat
+mscoco_00019_000000015278.jpg	1	1	broccoli
+mscoco_00020_000000015497.jpg	3	3	cat,mouse,couch
+mscoco_00021_000000016598.jpg	3	3	tie,person,cell phone
+mscoco_00022_000000017207.jpg	5	4	person,car,motorcycle,bus
+mscoco_00023_000000018150.jpg	7	5	person,pizza,bottle,backpack,couch
+mscoco_00024_000000018380.jpg	54	11	person,dining table,wine glass,cup,fork,knife,spoon,bowl,vase,carrot,chair
+mscoco_00025_000000018575.jpg	8	6	dining table,bottle,wine glass,knife,bowl,sandwich
+mscoco_00026_000000019402.jpg	3	2	person,pizza
+mscoco_00027_000000019786.jpg	6	4	laptop,person,remote,couch
+mscoco_00028_000000021167.jpg	4	3	tie,person,wine glass
+mscoco_00029_000000021503.jpg	8	4	mouse,remote,keyboard,sandwich
+mscoco_00030_000000022623.jpg	1	1	cell phone
+mscoco_00031_000000022892.jpg	5	5	potted plant,dining table,cat,dog,chair
+mscoco_00032_000000024144.jpg	1	1	pizza
+mscoco_00033_000000025096.jpg	6	6	person,dining table,skateboard,knife,zebra,chair
+mscoco_00034_000000026465.jpg	6	6	person,laptop,remote,keyboard,cell phone,chair
+mscoco_00035_000000027696.jpg	4	4	fork,person,pizza,knife
+mscoco_00036_000000028452.jpg	2	2	refrigerator,bottle
+mscoco_00037_000000032038.jpg	4	4	person,dining table,pizza,bottle
+mscoco_00038_000000035062.jpg	2	2	bed,person
+mscoco_00039_000000035279.jpg	9	7	person,laptop,tennis racket,bottle,cell phone,book,handbag
+mscoco_00040_000000039769.jpg	6	4	bed,remote,cat,couch
+mscoco_00041_000000040757.jpg	3	3	bed,person,tv
+mscoco_00042_000000043581.jpg	4	4	fork,knife,dining table,pizza
+mscoco_00043_000000044068.jpg	2	2	teddy bear,chair
+mscoco_00044_000000046463.jpg	3	3	person,sandwich,oven
+mscoco_00045_000000047121.jpg	4	4	sink,cat,bowl,bottle
+mscoco_00046_000000048153.jpg	2	2	person,bench
+mscoco_00047_000000048396.jpg	7	6	person,dining table,cup,knife,cake,chair
+mscoco_00048_000000048564.jpg	2	2	person,cell phone
+mscoco_00049_000000050811.jpg	9	7	tie,person,dining table,remote,bottle,cell phone,bowl
+mscoco_00050_000000051008.jpg	2	2	laptop,cat
+mscoco_00051_000000052413.jpg	5	4	person,cell phone,chair,cup
+mscoco_00052_000000053529.jpg	3	3	truck,person,dog
+mscoco_00053_000000053909.jpg	2	2	person,cell phone
+mscoco_00054_000000055528.jpg	7	6	person,remote,book,clock,toothbrush,couch
+mscoco_00055_000000058350.jpg	6	4	person,pizza,knife,couch
+mscoco_00056_000000060052.jpg	2	2	person,umbrella
+mscoco_00057_000000062554.jpg	6	4	fork,bowl,broccoli,dining table
+mscoco_00058_000000063965.jpg	3	3	person,spoon,cake
+mscoco_00059_000000064084.jpg	17	7	person,dining table,bottle,knife,spoon,bowl,sandwich
+mscoco_00060_000000064868.jpg	6	5	person,bottle,oven,dog,chair
+mscoco_00061_000000065485.jpg	2	2	dog,car
+mscoco_00062_000000066135.jpg	1	1	train
+mscoco_00063_000000066886.jpg	1	1	person
+mscoco_00064_000000067315.jpg	4	2	tie,person
+mscoco_00065_000000067534.jpg	3	3	tie,person,chair
+mscoco_00066_000000070048.jpg	6	5	dining table,wine glass,cup,bowl,sandwich
+mscoco_00067_000000071226.jpg	6	4	bed,cat,dog,book
+mscoco_00068_000000071451.jpg	1	1	bed
+mscoco_00069_000000071938.jpg	3	3	bed,person,cell phone
+mscoco_00070_000000073702.jpg	6	4	person,backpack,umbrella,handbag
+mscoco_00071_000000073946.jpg	5	3	bed,person,surfboard
+mscoco_00072_000000076417.jpg	5	4	traffic light,truck,dog,car
+mscoco_00073_000000076731.jpg	1	1	laptop
+mscoco_00074_000000077595.jpg	3	3	bed,cat,laptop
+mscoco_00075_000000078420.jpg	3	3	laptop,cat,chair
+mscoco_00076_000000078426.jpg	3	3	cat,dining table,cup
+mscoco_00077_000000080949.jpg	4	4	laptop,cat,bottle,cup
+mscoco_00078_000000081738.jpg	5	5	person,dining table,bottle,knife,cake
+mscoco_00079_000000082807.jpg	4	4	dog,dining table,cake,chair
+mscoco_00080_000000084362.jpg	8	7	person,tv,truck,remote,cat,chair,couch
+mscoco_00081_000000085195.jpg	3	3	fork,dining table,cake
+mscoco_00082_000000088269.jpg	4	3	spoon,bowl,sandwich
+mscoco_00083_000000091654.jpg	3	3	bowl,spoon,dining table
+mscoco_00084_000000091779.jpg	8	6	dining table,cup,bowl,sandwich,hot dog,chair
+mscoco_00085_000000093353.jpg	5	4	person,hot dog,book,chair
+mscoco_00086_000000095707.jpg	9	4	knife,dining table,bowl,cake
+mscoco_00087_000000095786.jpg	4	2	vase,cup
+mscoco_00088_000000096493.jpg	3	3	person,remote,couch
+mscoco_00089_000000098839.jpg	3	3	tv,cat,bowl
+mscoco_00090_000000099053.jpg	8	4	fork,dining table,broccoli,bowl
+mscoco_00091_000000099428.jpg	5	3	laptop,remote,cell phone
+mscoco_00092_000000100582.jpg	3	3	fork,pizza,dining table
+mscoco_00093_000000105014.jpg	6	5	dining table,fork,bowl,broccoli,carrot
+mscoco_00094_000000108026.jpg	3	3	person,mouse,keyboard
+mscoco_00095_000000109055.jpg	2	2	cat,bicycle
+mscoco_00096_000000109118.jpg	6	4	baseball glove,person,sports ball,chair
+mscoco_00097_000000111036.jpg	2	2	car,oven
+mscoco_00098_000000113403.jpg	4	2	teddy bear,bed
+mscoco_00099_000000113589.jpg	7	5	bowl,banana,apple,sandwich,pizza
+mscoco_00100_000000114871.jpg	2	2	dining table,banana
+mscoco_00101_000000115885.jpg	3	3	bed,cat,laptop
+mscoco_00102_000000116362.jpg	8	5	dining table,spoon,bowl,apple,carrot
+mscoco_00103_000000117425.jpg	7	5	person,dining table,cup,spoon,cake
+mscoco_00104_000000119365.jpg	5	4	laptop,person,keyboard,cell phone
+mscoco_00105_000000119452.jpg	6	3	banana,apple,orange
+mscoco_00106_000000119828.jpg	6	6	laptop,mouse,remote,cell phone,cup,cat
+mscoco_00107_000000126110.jpg	3	3	truck,person,dog
+mscoco_00108_000000127476.jpg	1	1	pizza
+mscoco_00109_000000129113.jpg	2	2	spoon,dining table
+mscoco_00110_000000131379.jpg	1	1	cake
+mscoco_00111_000000132116.jpg	8	3	broccoli,dining table,bowl
+mscoco_00112_000000132622.jpg	1	1	bear
+mscoco_00113_000000133343.jpg	2	2	tie,person
+mscoco_00114_000000134112.jpg	3	3	laptop,bed,dog
+mscoco_00115_000000137106.jpg	2	2	bed,person
+mscoco_00116_000000138115.jpg	2	2	person,orange
+mscoco_00117_000000138241.jpg	2	2	hot dog,dining table
+mscoco_00118_000000138856.jpg	2	2	bowl,oven
+mscoco_00119_000000138954.jpg	2	2	dining table,apple
+mscoco_00120_000000139260.jpg	6	4	dining table,spoon,bowl,banana
+mscoco_00121_000000141821.jpg	5	4	person,pizza,bottle,bowl
+mscoco_00122_000000143931.jpg	2	2	person,bus
+mscoco_00123_000000143998.jpg	7	3	knife,dining table,carrot
+mscoco_00124_000000146489.jpg	6	5	dining table,bottle,cell phone,wine glass,pizza
+mscoco_00125_000000147205.jpg	2	2	dining table,cake
+mscoco_00126_000000151938.jpg	9	6	person,dining table,bottle,wine glass,cup,umbrella
+mscoco_00127_000000153568.jpg	1	1	stop sign
+mscoco_00128_000000153632.jpg	4	4	fork,knife,dining table,bowl
+mscoco_00129_000000154644.jpg	4	3	person,cell phone,wine glass
+mscoco_00130_000000155179.jpg	2	2	dining table,cake
+mscoco_00131_000000157418.jpg	8	5	dining table,bottle,cup,bowl,sandwich
+mscoco_00132_000000159112.jpg	1	1	pizza
+mscoco_00133_000000160012.jpg	9	8	person,car,dining table,bottle,fork,knife,pizza,chair
+mscoco_00134_000000161820.jpg	1	1	banana
+mscoco_00135_000000163611.jpg	6	5	dining table,cup,fork,knife,pizza
+mscoco_00136_000000164363.jpg	1	1	clock
+mscoco_00137_000000164883.jpg	4	3	tv,person,remote
+mscoco_00138_000000166478.jpg	8	6	person,laptop,cell phone,bowl,book,couch
+mscoco_00139_000000167159.jpg	2	2	bed,book
+mscoco_00140_000000169076.jpg	6	5	person,bed,tv,cat,dog
+mscoco_00141_000000170278.jpg	2	2	bed,dog
+mscoco_00142_000000172396.jpg	2	2	pizza,oven
+mscoco_00143_000000172571.jpg	8	6	person,wine glass,cup,fork,knife,pizza
+mscoco_00144_000000173091.jpg	4	4	dining table,bottle,apple,sandwich
+mscoco_00145_000000173383.jpg	4	4	knife,dining table,cake,cup
+mscoco_00146_000000174123.jpg	6	5	person,dining table,fork,knife,pizza
+mscoco_00147_000000175535.jpg	7	5	dining table,fork,knife,bowl,sandwich
+mscoco_00148_000000176634.jpg	1	1	zebra
+mscoco_00149_000000177015.jpg	6	5	person,laptop,cat,refrigerator,couch
+mscoco_00150_000000177213.jpg	7	6	person,dining table,cup,fork,knife,pizza
+mscoco_00151_000000179141.jpg	7	4	person,dining table,pizza,cup
+mscoco_00152_000000179285.jpg	2	2	tennis racket,sports ball
+mscoco_00153_000000179392.jpg	6	5	tv,keyboard,cat,dog,book
+mscoco_00154_000000181499.jpg	3	3	laptop,person,keyboard
+mscoco_00155_000000181969.jpg	2	2	dog,couch
+mscoco_00156_000000182202.jpg	4	4	laptop,dining table,keyboard,cell phone
+mscoco_00157_000000182417.jpg	8	5	dining table,cup,spoon,bowl,cake
+mscoco_00158_000000182611.jpg	25	9	person,dining table,bottle,oven,cup,spoon,bowl,sandwich,cake
+mscoco_00159_000000182805.jpg	5	4	person,dog,umbrella,handbag
+mscoco_00160_000000183716.jpg	5	3	tie,person,chair
+mscoco_00161_000000183965.jpg	5	5	dining table,cup,bowl,sandwich,hot dog
+mscoco_00162_000000184384.jpg	6	5	person,dining table,cup,orange,cake
+mscoco_00163_000000184762.jpg	1	1	clock
+mscoco_00164_000000185599.jpg	6	2	apple,orange
+mscoco_00165_000000186624.jpg	5	4	person,backpack,handbag,train
+mscoco_00166_000000186929.jpg	1	1	orange
+mscoco_00167_000000187236.jpg	4	3	cat,chair,couch
+mscoco_00168_000000187249.jpg	4	3	tv,person,bottle
+mscoco_00169_000000188906.jpg	1	1	banana
+mscoco_00170_000000189436.jpg	5	4	teddy bear,tv,tie,dining table
+mscoco_00171_000000189475.jpg	36	11	potted plant,person,dining table,bottle,cup,fork,knife,refrigerator,vase,pizza,chair
+mscoco_00172_000000191580.jpg	9	7	dining table,bottle,fork,knife,sandwich,broccoli,chair
+mscoco_00173_000000192904.jpg	7	4	bed,spoon,donut,cup
+mscoco_00174_000000194746.jpg	2	2	pizza,oven
+mscoco_00175_000000198641.jpg	7	5	tv,laptop,keyboard,cat,clock
+mscoco_00176_000000199681.jpg	2	2	teddy bear,microwave
+mscoco_00177_000000200421.jpg	3	3	bed,person,tennis racket
+mscoco_00178_000000201426.jpg	9	6	person,dining table,cup,pizza,cake,chair
+mscoco_00179_000000206579.jpg	8	6	person,dining table,cup,book,cake,chair
+mscoco_00180_000000206831.jpg	1	1	dog
+mscoco_00181_000000210030.jpg	3	3	fork,dining table,cake
+mscoco_00182_000000210502.jpg	1	1	train
+mscoco_00183_000000213816.jpg	1	1	train
+mscoco_00184_000000214869.jpg	2	2	person,cell phone
+mscoco_00185_000000215114.jpg	7	3	person,refrigerator,bottle
+mscoco_00186_000000215723.jpg	6	5	person,car,truck,traffic light,umbrella
+mscoco_00187_000000217219.jpg	1	1	bed
+mscoco_00188_000000218249.jpg	2	2	dining table,sandwich
+mscoco_00189_000000219578.jpg	4	3	cat,dog,couch
+mscoco_00190_000000221872.jpg	7	3	fork,carrot,bowl
+mscoco_00191_000000222299.jpg	9	5	bed,laptop,bottle,cell phone,book
+mscoco_00192_000000222455.jpg	2	2	microwave,oven
+mscoco_00193_000000222735.jpg	5	5	person,dining table,tv,remote,couch
+mscoco_00194_000000223188.jpg	3	3	person,clock,cow
+mscoco_00195_000000224807.jpg	46	8	person,dining table,cup,spoon,bowl,backpack,chair,handbag
+mscoco_00196_000000226130.jpg	3	2	hot dog,dining table
+mscoco_00197_000000226147.jpg	21	13	person,dining table,cell phone,cup,fork,knife,spoon,clock,vase,sandwich,backpack,chair,handbag
+mscoco_00198_000000226171.jpg	7	6	tv,laptop,bottle,keyboard,cell phone,cup
+mscoco_00199_000000227985.jpg	4	3	knife,dining table,sandwich
+mscoco_00200_000000228214.jpg	8	4	person,cell phone,bottle,umbrella
+mscoco_00201_000000231527.jpg	9	4	knife,dining table,orange,cup
+mscoco_00202_000000232088.jpg	7	7	tv,laptop,mouse,remote,keyboard,chair,couch
+mscoco_00203_000000235399.jpg	3	3	truck,bed,dog
+mscoco_00204_000000236166.jpg	2	2	person,dog
+mscoco_00205_000000236592.jpg	2	2	dog,oven
+mscoco_00206_000000236730.jpg	1	1	zebra
+mscoco_00207_000000236914.jpg	5	4	teddy bear,dining table,bottle,chair
+mscoco_00208_000000239318.jpg	4	3	laptop,keyboard,chair
+mscoco_00209_000000241326.jpg	3	3	cat,dog,couch
+mscoco_00210_000000241668.jpg	5	4	tie,person,cake,chair
+mscoco_00211_000000242946.jpg	41	7	person,dining table,cup,spoon,bowl,carrot,chair
+mscoco_00212_000000243204.jpg	4	4	person,spoon,sandwich,oven
+mscoco_00213_000000245576.jpg	6	6	tv,keyboard,cell phone,cup,cat,scissors
+mscoco_00214_000000246436.jpg	7	6	person,microwave,cup,oven,bowl,pizza
+mscoco_00215_000000248314.jpg	8	7	laptop,mouse,bottle,keyboard,spoon,bowl,chair
+mscoco_00216_000000250127.jpg	5	5	person,train,cell phone,umbrella,handbag
+mscoco_00217_000000250766.jpg	5	5	dining table,fork,knife,sandwich,carrot
+mscoco_00218_000000251140.jpg	5	3	person,bicycle,book
+mscoco_00219_000000251572.jpg	3	3	person,dog,couch
+mscoco_00220_000000252332.jpg	1	1	stop sign
+mscoco_00221_000000253002.jpg	1	1	bus
+mscoco_00222_000000253433.jpg	2	2	teddy bear,couch
+mscoco_00223_000000255747.jpg	3	2	dining table,sandwich
+mscoco_00224_000000255824.jpg	3	3	dining table,cake,cup
+mscoco_00225_000000255912.jpg	5	4	broccoli,dining table,bottle,sandwich
+mscoco_00226_000000256518.jpg	8	5	dining table,cup,spoon,bowl,sandwich
+mscoco_00227_000000260925.jpg	3	3	cat,car,person
+mscoco_00228_000000261706.jpg	3	3	cat,remote,couch
+mscoco_00229_000000262895.jpg	2	2	tie,person
+mscoco_00230_000000263463.jpg	4	4	dog,car,bus,bench
+mscoco_00231_000000264441.jpg	2	2	cat,chair
+mscoco_00232_000000265777.jpg	6	4	person,dining table,wine glass,pizza
+mscoco_00233_000000267300.jpg	3	3	potted plant,bed,dog
+mscoco_00234_000000270883.jpg	3	3	bed,clock,person
+mscoco_00235_000000271116.jpg	35	9	tie,person,dining table,cell phone,wine glass,cup,fork,spoon,chair
+mscoco_00236_000000271728.jpg	8	6	laptop,remote,cup,cat,book,couch
+mscoco_00237_000000271997.jpg	2	2	tie,person
+mscoco_00238_000000273642.jpg	2	2	dog,remote
+mscoco_00239_000000273711.jpg	37	10	person,dining table,cup,spoon,bowl,apple,sandwich,orange,carrot,chair
+mscoco_00240_000000274687.jpg	3	3	bed,bicycle,chair
+mscoco_00241_000000275198.jpg	40	10	person,dining table,bottle,cup,fork,knife,spoon,bowl,umbrella,chair
+mscoco_00242_000000276055.jpg	8	7	person,dining table,bottle,cup,carrot,umbrella,chair
+mscoco_00243_000000279730.jpg	7	4	person,hot dog,sandwich,cup
+mscoco_00244_000000280918.jpg	6	5	person,bottle,oven,spoon,refrigerator
+mscoco_00245_000000280930.jpg	4	4	person,refrigerator,bottle,oven
+mscoco_00246_000000284764.jpg	7	7	person,dining table,cell phone,cup,knife,spoon,bowl
+mscoco_00247_000000285349.jpg	1	1	vase
+mscoco_00248_000000287527.jpg	3	2	tie,person
+mscoco_00249_000000287667.jpg	5	4	knife,dining table,book,carrot
+mscoco_00250_000000290081.jpg	4	3	dining table,bowl,orange
+mscoco_00251_000000290843.jpg	4	4	bed,cat,person,laptop
+mscoco_00252_000000291490.jpg	2	2	bed,cat
+mscoco_00253_000000291791.jpg	7	4	person,backpack,motorcycle,handbag
+mscoco_00254_000000292024.jpg	5	4	fork,person,pizza,cup
+mscoco_00255_000000293044.jpg	4	4	carrot,spoon,dining table,sandwich
+mscoco_00256_000000293625.jpg	8	6	potted plant,person,remote,bottle,wine glass,couch
+mscoco_00257_000000300039.jpg	9	5	person,dining table,bottle,cell phone,cup
+mscoco_00258_000000300913.jpg	3	2	cat,couch
+mscoco_00259_000000301061.jpg	3	3	truck,person,elephant
+mscoco_00260_000000304545.jpg	1	1	suitcase
+mscoco_00261_000000304984.jpg	8	6	wine glass,fork,bowl,sandwich,orange,cake
+mscoco_00262_000000306700.jpg	4	4	fork,person,dining table,pizza
+mscoco_00263_000000307172.jpg	5	5	person,dining table,cup,bowl,pizza
+mscoco_00264_000000307658.jpg	1	1	bear
+mscoco_00265_000000309484.jpg	4	3	person,dog,toothbrush
+mscoco_00266_000000309964.jpg	5	4	backpack,person,car,umbrella
+mscoco_00267_000000310862.jpg	3	3	tie,person,dining table
+mscoco_00268_000000310980.jpg	3	3	teddy bear,laptop,keyboard
+mscoco_00269_000000311303.jpg	8	6	person,dining table,cup,knife,sandwich,chair
+mscoco_00270_000000311909.jpg	1	1	bus
+mscoco_00271_000000312213.jpg	2	2	laptop,cat
+mscoco_00272_000000318114.jpg	6	6	dining table,cup,fork,bowl,orange,cake
+mscoco_00273_000000318238.jpg	4	3	bed,dog,cat
+mscoco_00274_000000319100.jpg	7	5	person,tv,remote,bottle,couch
+mscoco_00275_000000319617.jpg	4	3	hot dog,dining table,cup
+mscoco_00276_000000320664.jpg	5	5	dining table,fork,knife,spoon,hot dog
+mscoco_00277_000000321214.jpg	3	3	person,cake,chair
+mscoco_00278_000000321557.jpg	1	1	motorcycle
+mscoco_00279_000000322574.jpg	4	4	hot dog,bowl,sandwich,cup
+mscoco_00280_000000322959.jpg	9	7	dining table,fork,knife,bowl,banana,apple,orange
+mscoco_00281_000000323151.jpg	5	5	dining table,cup,bowl,pizza,chair
+mscoco_00282_000000327592.jpg	4	4	person,spoon,clock,cake
+mscoco_00283_000000331817.jpg	17	9	potted plant,person,dining table,tv,wine glass,fork,knife,bowl,cake
+mscoco_00284_000000332455.jpg	1	1	toilet
+mscoco_00285_000000333772.jpg	8	6	tv,mouse,keyboard,cup,cat,chair
+mscoco_00286_000000336053.jpg	25	8	person,dining table,wine glass,cup,fork,spoon,carrot,chair
+mscoco_00287_000000336628.jpg	8	3	person,cell phone,bus
+mscoco_00288_000000338901.jpg	4	3	dog,remote,couch
+mscoco_00289_000000338905.jpg	38	12	potted plant,person,dining table,motorcycle,bottle,wine glass,cup,knife,bowl,sandwich,umbrella,chair
+mscoco_00290_000000340015.jpg	2	2	pizza,dining table
+mscoco_00291_000000341828.jpg	3	3	person,cell phone,sandwich
+mscoco_00292_000000342186.jpg	2	2	dining table,pizza
+mscoco_00293_000000342367.jpg	6	4	tv,person,book,laptop
+mscoco_00294_000000343706.jpg	2	2	person,cell phone
+mscoco_00295_000000344100.jpg	5	5	dining table,laptop,cup,spoon,sandwich
+mscoco_00296_000000344795.jpg	2	2	cake,oven
+mscoco_00297_000000345385.jpg	3	2	bed,person
+mscoco_00298_000000345397.jpg	3	3	tie,person,cell phone
+mscoco_00299_000000346968.jpg	5	4	person,book,cell phone,chair
+mscoco_00300_000000347335.jpg	5	4	fork,knife,dining table,cup
+mscoco_00301_000000347930.jpg	3	3	dog,sports ball,couch
+mscoco_00302_000000348488.jpg	5	2	horse,vase
+mscoco_00303_000000348708.jpg	3	3	dining table,bowl,banana
+mscoco_00304_000000350388.jpg	5	2	broccoli,bowl
+mscoco_00305_000000351331.jpg	3	3	fork,dining table,pizza
+mscoco_00306_000000351609.jpg	4	4	spoon,bowl,cup,orange
+mscoco_00307_000000352618.jpg	4	3	bowl,banana,orange
+mscoco_00308_000000352900.jpg	9	4	fork,knife,broccoli,bowl
+mscoco_00309_000000353970.jpg	2	2	cat,chair
+mscoco_00310_000000354307.jpg	1	1	person
+mscoco_00311_000000356347.jpg	3	2	spoon,bowl
+mscoco_00312_000000356531.jpg	8	6	person,dining table,bottle,cup,fork,knife
+mscoco_00313_000000357430.jpg	1	1	pizza
+mscoco_00314_000000359219.jpg	5	4	fork,knife,pizza,oven
+mscoco_00315_000000363666.jpg	40	8	person,dining table,cup,fork,knife,sandwich,donut,chair
+mscoco_00316_000000363875.jpg	3	3	person,motorcycle,bus
+mscoco_00317_000000364297.jpg	3	3	tv,cat,keyboard
+mscoco_00318_000000365886.jpg	2	2	person,cell phone
+mscoco_00319_000000367082.jpg	3	3	dog,chair,couch
+mscoco_00320_000000368456.jpg	1	1	train
+mscoco_00321_000000368752.jpg	9	6	person,dining table,cup,spoon,bowl,cake
+mscoco_00322_000000369037.jpg	4	4	person,bottle,elephant,handbag
+mscoco_00323_000000369370.jpg	7	3	dining table,sandwich,orange
+mscoco_00324_000000371749.jpg	7	4	person,dog,remote,couch
+mscoco_00325_000000374083.jpg	8	5	person,dining table,knife,spoon,cake
+mscoco_00326_000000375278.jpg	6	5	person,suitcase,cat,dog,book
+mscoco_00327_000000375430.jpg	4	3	bowl,dining table,chair
+mscoco_00328_000000376322.jpg	43	10	person,dining table,bottle,cell phone,wine glass,cup,fork,knife,spoon,cake
+mscoco_00329_000000376365.jpg	7	6	potted plant,person,cup,vase,chair,couch
+mscoco_00330_000000377368.jpg	9	6	person,dining table,cup,bench,cake,handbag
+mscoco_00331_000000378284.jpg	7	5	person,dining table,fork,knife,pizza
+mscoco_00332_000000378605.jpg	4	3	dining table,donut,cup
+mscoco_00333_000000381587.jpg	31	6	person,dining table,bottle,cup,spoon,bowl
+mscoco_00334_000000384661.jpg	7	5	bottle,oven,refrigerator,spoon,clock
+mscoco_00335_000000389381.jpg	6	5	dining table,bowl,apple,broccoli,carrot
+mscoco_00336_000000389933.jpg	2	2	dog,couch
+mscoco_00337_000000391722.jpg	9	5	tie,person,dining table,cell phone,cake
+mscoco_00338_000000392818.jpg	1	1	dog
+mscoco_00339_000000394940.jpg	4	4	knife,dining table,cake,person
+mscoco_00340_000000396729.jpg	5	5	bed,remote,cell phone,bowl,book
+mscoco_00341_000000399655.jpg	2	2	dog,couch
+mscoco_00342_000000400082.jpg	4	4	hot dog,dining table,book,cup
+mscoco_00343_000000400794.jpg	5	4	fork,person,pizza,bottle
+mscoco_00344_000000400815.jpg	3	3	truck,person,suitcase
+mscoco_00345_000000401991.jpg	4	3	bed,cat,dog
+mscoco_00346_000000402765.jpg	2	2	person,remote
+mscoco_00347_000000403817.jpg	3	3	laptop,cat,tv
+mscoco_00348_000000404191.jpg	1	1	refrigerator
+mscoco_00349_000000405306.jpg	2	2	bed,cat
+mscoco_00350_000000405432.jpg	4	3	remote,dining table,donut
+mscoco_00351_000000407083.jpg	3	3	person,dog,car
+mscoco_00352_000000407298.jpg	3	3	baseball glove,person,sports ball
+mscoco_00353_000000407825.jpg	5	5	potted plant,bird,bowl,clock,apple
+mscoco_00354_000000409424.jpg	6	3	dining table,apple,orange
+mscoco_00355_000000412362.jpg	7	5	tie,person,wine glass,cup,handbag
+mscoco_00356_000000412887.jpg	1	1	cow
+mscoco_00357_000000414034.jpg	5	5	bed,person,remote,bottle,cup
+mscoco_00358_000000414638.jpg	6	5	dining table,cup,fork,knife,sandwich
+mscoco_00359_000000416330.jpg	2	2	bed,cat
+mscoco_00360_000000416343.jpg	7	4	person,surfboard,book,chair
+mscoco_00361_000000420230.jpg	1	1	elephant
+mscoco_00362_000000421455.jpg	5	5	person,car,truck,cell phone,dog
+mscoco_00363_000000422670.jpg	4	3	bed,book,person
+mscoco_00364_000000422886.jpg	3	3	person,hot dog,couch
+mscoco_00365_000000422998.jpg	5	4	person,bottle,sandwich,knife
+mscoco_00366_000000423506.jpg	5	3	tie,person,cup
+mscoco_00367_000000426297.jpg	1	1	zebra
+mscoco_00368_000000429623.jpg	4	4	fork,dining table,pizza,chair
+mscoco_00369_000000430286.jpg	4	2	bed,remote
+mscoco_00370_000000432468.jpg	2	2	cat,suitcase
+mscoco_00371_000000433915.jpg	4	3	tv,person,tie
+mscoco_00372_000000433980.jpg	2	2	person,cell phone
+mscoco_00373_000000434479.jpg	4	3	dining table,pizza,chair
+mscoco_00374_000000434996.jpg	5	3	bed,cat,teddy bear
+mscoco_00375_000000435081.jpg	63	13	dining table,cup,fork,knife,spoon,bowl,sandwich,vase,carrot,pizza,donut,cake,chair
+mscoco_00376_000000435205.jpg	2	2	teddy bear,person
+mscoco_00377_000000437205.jpg	3	3	person,banana,couch
+mscoco_00378_000000438226.jpg	6	5	dining table,wine glass,fork,sandwich,hot dog
+mscoco_00379_000000439525.jpg	7	5	person,dining table,bottle,knife,cake
+mscoco_00380_000000441491.jpg	5	3	person,pizza,cup
+mscoco_00381_000000443303.jpg	3	3	cat,book,suitcase
+mscoco_00382_000000445722.jpg	6	4	person,backpack,boat,suitcase
+mscoco_00383_000000445792.jpg	7	5	potted plant,person,remote,cell phone,couch
+mscoco_00384_000000445999.jpg	2	2	person,toothbrush
+mscoco_00385_000000446117.jpg	2	2	orange,bench
+mscoco_00386_000000446522.jpg	4	4	dog,dining table,refrigerator,chair
+mscoco_00387_000000448256.jpg	6	4	truck,person,bottle,boat
+mscoco_00388_000000450100.jpg	4	4	spoon,dining table,cake,cup
+mscoco_00389_000000450202.jpg	7	4	fork,person,dining table,wine glass
+mscoco_00390_000000452084.jpg	5	4	fork,dining table,bowl,hot dog
+mscoco_00391_000000452784.jpg	6	4	broccoli,person,bowl,sink
+mscoco_00392_000000452891.jpg	2	2	dog,bench
+mscoco_00393_000000454404.jpg	5	5	potted plant,person,cell phone,bench,chair
+mscoco_00394_000000457262.jpg	3	2	dining table,banana
+mscoco_00395_000000458255.jpg	5	4	bed,cat,book,person
+mscoco_00396_000000458992.jpg	4	4	fork,person,pizza,knife
+mscoco_00397_000000459662.jpg	5	3	person,donut,chair
+mscoco_00398_000000459887.jpg	3	2	bowl,banana
+mscoco_00399_000000460494.jpg	9	7	dining table,cup,fork,knife,bowl,broccoli,carrot
+mscoco_00400_000000460683.jpg	6	4	tie,person,dining table,chair
+mscoco_00401_000000461751.jpg	6	4	backpack,person,car,motorcycle
+mscoco_00402_000000463283.jpg	4	3	dining table,orange,cup
+mscoco_00403_000000463802.jpg	3	3	teddy bear,person,tennis racket
+mscoco_00404_000000466125.jpg	9	7	person,dining table,laptop,book,backpack,umbrella,chair
+mscoco_00405_000000468925.jpg	7	5	cup,knife,spoon,banana,sandwich
+mscoco_00406_000000468954.jpg	7	3	person,remote,couch
+mscoco_00407_000000469067.jpg	5	5	bed,person,remote,cell phone,cat
+mscoco_00408_000000470924.jpg	56	9	person,dining table,car,wine glass,cup,fork,knife,pizza,chair
+mscoco_00409_000000471869.jpg	3	3	teddy bear,tie,couch
+mscoco_00410_000000473237.jpg	3	3	person,pizza,chair
+mscoco_00411_000000474854.jpg	4	4	person,dining table,banana,chair
+mscoco_00412_000000475365.jpg	1	1	train
+mscoco_00413_000000475572.jpg	6	5	potted plant,person,bench,vase,teddy bear
+mscoco_00414_000000475732.jpg	1	1	cat
+mscoco_00415_000000476415.jpg	2	2	tie,person
+mscoco_00416_000000476810.jpg	9	5	bed,tv,remote,cat,book
+mscoco_00417_000000478393.jpg	4	3	bed,cat,teddy bear
+mscoco_00418_000000479732.jpg	3	3	bowl,sandwich,cup
+mscoco_00419_000000482719.jpg	6	5	microwave,bowl,banana,apple,chair
+mscoco_00420_000000482917.jpg	5	5	person,dining table,tv,dog,couch
+mscoco_00421_000000482978.jpg	2	2	chair,train
+mscoco_00422_000000483667.jpg	3	3	tie,person,chair
+mscoco_00423_000000483999.jpg	42	8	person,dining table,cup,fork,knife,spoon,umbrella,chair
+mscoco_00424_000000485972.jpg	6	4	fork,carrot,dining table,cake
+mscoco_00425_000000486112.jpg	2	2	person,elephant
+mscoco_00426_000000488166.jpg	6	6	person,dining table,cup,fork,sandwich,pizza
+mscoco_00427_000000491757.jpg	2	2	bed,cat
+mscoco_00428_000000492937.jpg	3	3	person,bicycle,train
+mscoco_00429_000000493334.jpg	2	2	cake,cell phone
+mscoco_00430_000000493799.jpg	6	3	fork,carrot,dining table
+mscoco_00431_000000494427.jpg	2	2	laptop,keyboard
+mscoco_00432_000000494634.jpg	8	5	laptop,bottle,wine glass,oven,cat
+mscoco_00433_000000496954.jpg	6	5	bottle,fork,bowl,orange,cake
+mscoco_00434_000000497344.jpg	4	4	laptop,person,bottle,cell phone
+mscoco_00435_000000498286.jpg	3	3	truck,dog,car
+mscoco_00436_000000499313.jpg	5	4	dining table,pizza,wine glass,cup
+mscoco_00437_000000500477.jpg	2	2	person,sheep
+mscoco_00438_000000500716.jpg	2	2	person,scissors
+mscoco_00439_000000501523.jpg	5	4	sink,cat,bottle,cup
+mscoco_00440_000000502732.jpg	1	1	refrigerator
+mscoco_00441_000000502737.jpg	4	3	person,cake,cup
+mscoco_00442_000000506933.jpg	5	4	person,book,cell phone,chair
+mscoco_00443_000000507235.jpg	3	2	dining table,bowl
+mscoco_00444_000000508482.jpg	1	1	train
+mscoco_00445_000000513688.jpg	4	4	laptop,mouse,dining table,chair
+mscoco_00446_000000516871.jpg	5	3	broccoli,bowl,dining table
+mscoco_00447_000000517687.jpg	3	2	dining table,cell phone
+mscoco_00448_000000519208.jpg	2	2	person,elephant
+mscoco_00449_000000519764.jpg	3	3	laptop,cat,chair
+mscoco_00450_000000520871.jpg	5	5	dining table,bottle,cup,fork,pizza
+mscoco_00451_000000521540.jpg	3	3	spoon,dining table,banana
+mscoco_00452_000000521601.jpg	2	2	bowl,donut
+mscoco_00453_000000522638.jpg	1	1	teddy bear
+mscoco_00454_000000523782.jpg	3	2	bird,truck
+mscoco_00455_000000524280.jpg	1	1	cat
+mscoco_00456_000000524456.jpg	6	5	person,laptop,mouse,keyboard,handbag
+mscoco_00457_000000524742.jpg	1	1	train
+mscoco_00458_000000525247.jpg	2	2	laptop,cat
+mscoco_00459_000000527695.jpg	9	3	broccoli,bowl,dining table
+mscoco_00460_000000529762.jpg	7	7	person,dining table,cell phone,wine glass,bowl,book,sandwich
+mscoco_00461_000000530061.jpg	7	6	person,dining table,spoon,bowl,chair,couch
+mscoco_00462_000000530146.jpg	6	6	dining table,bottle,cup,fork,knife,bowl
+mscoco_00463_000000530466.jpg	3	3	tv,chair,train
+mscoco_00464_000000530624.jpg	2	2	bed,dog
+mscoco_00465_000000531771.jpg	1	1	oven
+mscoco_00466_000000532058.jpg	5	4	bed,remote,bottle,person
+mscoco_00467_000000532129.jpg	4	4	pizza,dining table,bowl,cup
+mscoco_00468_000000532575.jpg	2	2	boat,dog
+mscoco_00469_000000532690.jpg	5	3	person,remote,couch
+mscoco_00470_000000536038.jpg	4	3	bed,book,person
+mscoco_00471_000000537270.jpg	8	4	person,cell phone,chair,cup
+mscoco_00472_000000541664.jpg	2	2	laptop,keyboard
+mscoco_00473_000000542776.jpg	4	4	bird,bed,book,person
+mscoco_00474_000000546626.jpg	4	4	dining table,bottle,cell phone,cup
+mscoco_00475_000000546717.jpg	6	6	potted plant,person,laptop,mouse,cup,couch
+mscoco_00476_000000547336.jpg	7	6	person,fire hydrant,cell phone,cup,book,handbag
+mscoco_00477_000000548555.jpg	2	2	person,hot dog
+mscoco_00478_000000549220.jpg	8	5	person,skateboard,bench,dog,book
+mscoco_00479_000000549674.jpg	6	5	tv,mouse,keyboard,cell phone,cup
+mscoco_00480_000000550714.jpg	2	2	person,banana
+mscoco_00481_000000551439.jpg	3	3	bed,book,person
+mscoco_00482_000000551822.jpg	7	5	dining table,cup,bowl,sandwich,chair
+mscoco_00483_000000554291.jpg	8	7	dining table,mouse,cat,dog,bowl,chair,couch
+mscoco_00484_000000555412.jpg	1	1	pizza
+mscoco_00485_000000557916.jpg	4	4	teddy bear,bed,person,vase
+mscoco_00486_000000558854.jpg	7	6	person,dining table,cup,spoon,bowl,sandwich
+mscoco_00487_000000560911.jpg	5	4	person,suitcase,cell phone,couch
+mscoco_00488_000000562059.jpg	6	5	dining table,cup,spoon,bowl,apple
+mscoco_00489_000000563758.jpg	1	1	teddy bear
+mscoco_00490_000000564280.jpg	4	3	dog,remote,couch
+mscoco_00491_000000565391.jpg	3	3	truck,cat,car
+mscoco_00492_000000565877.jpg	5	5	person,laptop,book,clock,couch
+mscoco_00493_000000568584.jpg	4	4	person,clock,chair,couch
+mscoco_00494_000000570539.jpg	8	3	person,bus,handbag
+mscoco_00495_000000574315.jpg	5	5	person,laptop,keyboard,cat,couch
+mscoco_00496_000000577539.jpg	5	3	person,bowl,banana
+mscoco_00497_000000578545.jpg	4	4	bed,book,chair,person
+mscoco_00498_000000578922.jpg	7	5	potted plant,bottle,cup,vase,toothbrush
+mscoco_00499_000000579070.jpg	31	8	tie,person,dining table,bottle,cup,fork,bowl,chair

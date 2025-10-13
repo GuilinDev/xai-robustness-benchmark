@@ -1,0 +1,167 @@
+# XAI Robustness Evaluation Configuration
+# Version: 1.0
+# This file centralizes all experimental parameters
+
+experiment:
+  name: "xai_robustness_evaluation_v2"
+  version: "1.0"
+  seed: 42
+  output_dir: "experiments/results"
+  save_attributions: false  # Set to true only for visualization
+  
+datasets:
+  - name: "imagenet"
+    type: "tiny-imagenet-200"
+    sample_size: 500
+    sample_list: "experiments/common/sample_lists/imagenet_500_seed42.txt"
+    data_root: "experiments/data/tiny-imagenet-200/val"
+    input_size: 224
+    normalization:
+      mean: [0.485, 0.456, 0.406]
+      std: [0.229, 0.224, 0.225]
+      
+  - name: "cifar10"
+    type: "cifar10"
+    sample_size: 500
+    sample_list: "experiments/common/sample_lists/cifar10_500_seed42.txt"
+    data_root: "experiments/data/cifar10"
+    input_size: 224  # Upsampled from 32x32
+    normalization:
+      mean: [0.4914, 0.4822, 0.4465]
+      std: [0.2023, 0.1994, 0.2010]
+      
+  - name: "pascal_voc"
+    type: "pascal_voc_2012"
+    sample_size: 500
+    sample_list: "experiments/common/sample_lists/pascal_voc_500_seed42.txt"
+    data_root: "experiments/data/VOCdevkit/VOC2012"
+    input_size: 224
+    normalization:
+      mean: [0.485, 0.456, 0.406]  # ImageNet normalization
+      std: [0.229, 0.224, 0.225]
+    note: "Multi-object scenes from 20 categories"
+
+models:
+  standard:
+    name: "resnet50"
+    weights: "IMAGENET1K_V1"
+    source: "torchvision"
+    
+  robust:
+    name: "Salman2020Do_50_2"
+    source: "robustbench"
+    dataset: "imagenet"
+    threat_model: "Linf"
+
+methods:
+  gradcam:
+    batch_size: 50
+    target_layer: "layer4"  # For ResNet50
+    use_relu: true
+    
+  ig:
+    batch_size: 10
+    n_steps: 50
+    baseline: "zero"  # Options: zero, gaussian, uniform
+    
+  lrp:
+    batch_size: 20
+    rule: "epsilon"  # Options: epsilon, gamma, alpha-beta
+    epsilon: 0.01
+    
+  lime:
+    batch_size: 1  # LIME is inherently single-image
+    n_samples: 1000
+    n_features: 10
+    
+  shap:
+    batch_size: 10
+    n_samples: 100
+    background: "zero"  # Options: zero, gaussian, kmeans
+    
+  occlusion:
+    batch_size: 20
+    window_size: 15
+    stride: 5
+
+corruptions:
+  # Noise corruptions
+  noise:
+    - gaussian_noise
+    - shot_noise
+    - impulse_noise
+    
+  # Blur corruptions  
+  blur:
+    - defocus_blur
+    - glass_blur
+    - motion_blur
+    - zoom_blur
+    
+  # Weather corruptions
+  weather:
+    - snow
+    - frost
+    - fog
+    
+  # Digital corruptions
+  digital:
+    - brightness
+    - contrast
+    - elastic_transform
+    - pixelate
+    - jpeg
+    
+  # All corruptions flat list
+  all_types: ["gaussian_noise", "shot_noise", "impulse_noise", 
+              "defocus_blur", "glass_blur", "motion_blur", "zoom_blur",
+              "snow", "frost", "fog", 
+              "brightness", "contrast", "elastic_transform", "pixelate", "jpeg"]
+              
+  severities: [1, 2, 3, 4, 5]
+
+evaluation:
+  metrics:
+    primary:
+      - cosine_similarity
+      - mutual_information
+      - iou
+      - prediction_change
+      
+    secondary:
+      - stability
+      - kl_divergence
+      - top5_distance
+      - confidence_difference
+      
+  thresholds:
+    attribution_threshold: 0.5  # For binarization in IoU
+    top_k_pixels: 0.2  # Top 20% pixels for some metrics
+    
+computation:
+  device: "cuda"  # Options: cuda, cpu
+  num_workers: 4
+  pin_memory: true
+  mixed_precision: false
+  
+  # Resource limits
+  max_gpu_memory: "10GB"
+  checkpoint_frequency: 100  # Save every N images
+  
+logging:
+  level: "INFO"  # Options: DEBUG, INFO, WARNING, ERROR
+  log_dir: "experiments/logs"
+  save_step_outputs: false
+  
+visualization:
+  save_examples: true
+  n_examples: 5  # Per corruption, per severity
+  formats: ["png", "pdf"]
+  dpi: 150
+  
+# Quality control
+validation:
+  verify_corruptions: true
+  test_batch_size: 5
+  compare_with_reference: true
+  reference_results: "experiments/validation/reference_results.json"
